@@ -1,0 +1,5 @@
+todo.txt
+log.txt
+scratch.py
+__test/*
+**/__pycache__/*
